@@ -31,3 +31,4 @@ claro que a caverna. Mas tinha mais coisas pra
 se fazer, então deveria ser melhor. Isso foi o 
 ponta pé inicial pra gosma branca viajar pelo 
 mundo a procura de se entender"
+(Mude o display pra ver o resto -->)
